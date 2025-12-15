@@ -1,0 +1,21 @@
+html,body {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+/* set css variables */
+:root {
+  --neutral: #F1F1F7;
+  --success: #E1F4E6;
+  --warning: #FDE7E0;
+  --default: #1B2134;
+  --hover: #343A4E;
+  --active: #585D71;
+  --focus: #1B2134;
+  --black: #000;
+  --white: #fff;
+  --border-default-off: #D3D3DC;
+  --hover-background-off: #F6F6FA;
+  --hover-border-off: #C4C5CF;
+}
